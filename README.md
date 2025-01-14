@@ -1,2 +1,1 @@
-# 111
-大學
+print("hello worlds")
